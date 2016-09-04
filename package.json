@@ -1,0 +1,26 @@
+{
+  "name": "element-retriever",
+  "version": "1.0.0",
+  "description": "A module that GETs an HTML page and extracts only the element that matches your selector",
+  "main": "element-retriever.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nassosyian/element-retriever.git"
+  },
+  "keywords": [
+    "html",
+    "ajaxify",
+    "ampersand",
+    "xhr",
+    "dom"
+  ],
+  "author": "Nassos Yiannopoulos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nassosyian/element-retriever/issues"
+  },
+  "homepage": "https://github.com/nassosyian/element-retriever#readme"
+}
